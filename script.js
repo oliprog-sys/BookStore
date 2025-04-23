@@ -27,14 +27,14 @@ const myLibrary = [
     // new Book('program', 'Lary', 34, false),
     // new Book('program', 'Lary', 34, false),
     // new Book('program', 'Lary', 34, false),
-    new Book('program', 'Lary', 34, false),
-    new Book('Something', 'someone', 234, true),
-    new Book('someother', 'someone', 123, false),
-    new Book('program', 'Lary', 34, false),
-    new Book('program', 'Lary', 34, false),
-    new Book('program', 'Lary', 34, false),
-    new Book('program', 'Lary', 34, false),
-    new Book('program', 'Lary', 34, false)
+    // new Book('program', 'Lary', 34, false),
+    // new Book('Something', 'someone', 234, true),
+    // new Book('someother', 'someone', 123, false),
+    // new Book('program', 'Lary', 34, false),
+    // new Book('program', 'Lary', 34, false),
+    // new Book('program', 'Lary', 34, false),
+    // new Book('program', 'Lary', 34, false),
+    // new Book('program', 'Lary', 34, false)
 ];
 
 function display(){
