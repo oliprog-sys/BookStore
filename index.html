@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Book Store</title>
+</head>
+<body>
+    <form action="" id="form">
+        <div class="div-1">
+            <label for="">Title  <input type="text" name="form" id="title-id"></label>
+            <label for="">Author  <input type="text" name="form" id="author-id"></label>
+            <label for="">page  <input type="number" name="form" id="page-id"></label>
+        </div>
+        <div class="div-2">
+            <label for="">
+                Have you read the book? 
+                <input type="radio" id="yes-id" name="read" value="yes"> Yes 
+                <input type="radio" id="no-id" name="read" checked value="no"> No
+            </label>
+            <input type="submit" id="submit" name="Add" value="Add Book">   
+        </div>
+                 
+    </form>
+    <div id="book-store" class="book-store"></div>
+    <script src="script.js"></script>
+</body>
+</html>
